@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "canvas": "^2.9.3",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "html": "^1.0.0",
+    "instagram-private-api": "^1.45.3",
+    "jimp": "^0.16.1",
+    "png-to-jpeg": "^1.0.1",
+    "querystring": "^0.2.1"
+  }
+}
