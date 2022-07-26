@@ -19,3 +19,11 @@ a {
 a:visited {
     color: rgb(200, 255, 255);
 }
+
+#key {
+    width: 110px;
+}
+
+#msg {
+    width: 220px;
+}
